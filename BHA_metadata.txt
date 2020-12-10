@@ -1,0 +1,29 @@
+Data_bha contains data on worker abundance of Pheidole megacephala on tuna baits. Data were collected by Alejandro Pietrek, Jackson Ekadeli and Gilbert Busienei in transects transversal to the spread 
+of the big headed ant invasion at Ol Pejeta Conservancy (OPC). Surveys were always conducted between 7.30 and 10 am when ants are more active. For further details on data analysis and processing refer
+to the article in Oecologia.
+
+
+Variables:
+
+site: Four sites. North Control (NCONTROL), south control (SCONTROL) have been surveyed all times starting in December, KAMOK was added in February and the and the tourism house (TH) in June.
+transect: We placed two transects at each site. Transects are separated by 150-250 m.
+time_point:Another (simpler) way to numerically describe the month variable, or seasons when surveys where conducted.
+survey: We conducted two surveys separated < 1 week.
+month: We have data on surveys conducted in December 2016, February 2017 and June 2017, October 2017, February 2018 and June 2018. 
+date: Date the survey was conducted.
+dist: We placed  a maximum of 10 points (separated by 100 meters) on each transect. Lower numbers are located in old invaded sites and moving towards the invasion front and beyond.
+Right at the invasion front we established additional points starting 40 m before the last point where the invader was detected and spaced every 20 m.
+Bait: We placed three tuna baits separated by 10 meters and counted the number of ants on each bait.
+bha: Big headed ants Pheidole megacephala. Other species were recorded if present.
+UC: Percentage of understory cover measured with a 1-m quadrat where baits were placed.
+UH: Understory height.
+Count 1 and 2: Two different observers gave their best estimate on baits spaced every 100 m. 
+We did this to account for some kind of observation error. We stopped recording these data in June 2017.
+
+Additional files:
+Trees_transect contains the number of trees > 1m and < 1 counted on strip transects and best described in Pietreketal 2021.
+raindist contains data precipitacion and tree data for points located at the front.
+
+
+Addendum February 2017: Transect 7 has only one replicate in February.
+
